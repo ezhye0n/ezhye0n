@@ -12,8 +12,6 @@
 ### 🙋‍♀️ About Me
 
 - 🔭 백엔드 서비스와 API 설계에 관심이 많습니다
-- 🌱 새로운 기술을 꾸준히 학습 중입니다
-- 💬 궁금한 점은 언제든 편하게 연락 주세요
 - 📫 **ji1048339@gmail.com**
 
 ---
@@ -49,7 +47,7 @@
   <img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logo=milvus&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
-🏆 **Silver Prize · ICT AWARD KOREA 2026** (University Division) — 은상, 한국정보처리학회장상 (2026.07)
+**🏆 Silver Prize · ICT AWARD KOREA 2026** (University Division) — 은상, 한국정보처리학회장상 (2026.07)
  
 ---
  
