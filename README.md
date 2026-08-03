@@ -54,7 +54,7 @@
 ### 📚 Learning & Practice
 
 - **[aws-ai-ml-training](https://github.com/ezhye0n/aws-ai-ml-training)** — AWS 클라우드 인프라 및 GenAI 파이프라인(Bedrock RAG, Textract, Rekognition) 실습
-- **[aws-infra-basic](https://github.com/ezhye0n/aws-infra-basic)** — AWS 클라우드 기초(VPC, EC2, S3, ELB) 실습
+- **[Aws-Infra-Basic](https://github.com/ezhye0n/Aws-Infra-Basic)** — AWS 클라우드 기초(VPC, EC2, S3, ELB) 실습
 
 ---
 
