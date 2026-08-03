@@ -38,7 +38,7 @@
  
 ### 💊 Projects
  
-**[Pillioo](https://github.com/ezhye0n)** · Team Project · 2026.06 – 2026.08
+**[Pillioo](https://github.com/pillioo)** · Team Project · 2026.06 – 2026.08
  
 의약품 리콜 및 안전 이벤트 대응을 위한 약사 중심 의사결정 지원 시스템입니다. RAG 기반 근거 검색, 근거 충분성 평가, 워크플로우 오케스트레이션, human-in-the-loop 검토 기능을 제공합니다.
  
