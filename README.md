@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logo=milvus&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
+
 **🏆 Silver Prize · ICT AWARD KOREA 2026** (University Division) — 은상, 한국정보처리학회장상 (2026.07)
  
 ---
