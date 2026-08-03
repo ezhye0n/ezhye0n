@@ -19,8 +19,7 @@
 ---
 
 ### 🛠️ Tech Stack
-
-<!-- 사용하는 기술에 맞게 자유롭게 수정하세요 -->
+ 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
@@ -35,16 +34,31 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
 ---
-
+ 
+### 💊 Projects
+ 
+**[Pillioo](https://github.com/ezhye0n)** · Team Project · 2026.06 – 2026.08
+ 
+의약품 리콜 및 안전 이벤트 대응을 위한 약사 중심 의사결정 지원 시스템입니다. RAG 기반 근거 검색, 근거 충분성 평가, 워크플로우 오케스트레이션, human-in-the-loop 검토 기능을 제공합니다.
+ 
+> A pharmacist-facing AI decision-support system for drug recall and safety event response, featuring RAG-based evidence retrieval, evidence sufficiency assessment, workflow orchestration, and human-in-the-loop review.
+ 
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logo=milvus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+🏆 **Silver Prize · ICT AWARD KOREA 2026** (University Division) — 은상, 한국정보처리학회장상 (2026.07)
+ 
+---
+ 
 ### 📊 GitHub Stats
-
+ 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ezhye0n&show_icons=true&theme=default&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezhye0n&layout=compact&hide_border=true" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezhye0n&hide_border=true" alt="streak stats"/>
 </p>
