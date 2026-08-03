@@ -40,8 +40,16 @@
 | Date | Project | Description | Stack | Role |
 |------|---------|-------------|-------|------|
 | 2026.06 ~ 2026.08 | [Pillioo](https://github.com/ezhye0n) | 의약품 리콜 및 안전 이벤트 대응을 위한 약사 중심 의사결정 지원 시스템. RAG 기반 근거 검색, human-in-the-loop 검토 | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Milvus](https://img.shields.io/badge/Milvus-00A6A6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | BE & LLM Integration |
+| 2026.05 ~ 2026.08 | [SwapClass](https://github.com/ezhye0n) | 숙명여자대학교 재학생들이 수강신청 강의를 서로 믿고 교환할 수 있는 플랫폼 | ![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | Backend Lead |
 | 2026.05 ~ 2026.06 | [NoonGil-BarrierFree-AI](https://github.com/ezhye0n/NoonGil-BarrierFree-AI) | 휠체어 시점 기반 CV 장애물 탐지 및 회피 방향 제시 시스템 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Team Lead · Backend pipeline integration, Flask server, TTS/UI output modules |
 
+**Pillioo — BE & LLM Integration**
+Event normalization · LLM-based draft generation · Safety checks · Review & approval workflows · Audit logging · Multi-turn chat integration
+
+**SwapClass — Backend Lead**
+알림 · 신고/차단 · QR 인증 · 교환 채팅방 상태머신 · FCM 푸시 알림 · 스케줄러 등 핵심 도메인 설계 및 구현
+<br/>
+Backend: Spring Boot, MySQL, Redis, AWS S3, WebSocket STOMP, FCM · Deploy: AWS EC2, Nginx
 
 <br/>
 
@@ -76,5 +84,8 @@
 <p align="left">
   <a href="mailto:ji1048339@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jihyeon-lee-022816402/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
