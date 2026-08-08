@@ -48,8 +48,6 @@ Event normalization · LLM-based draft generation · Safety checks · Review & a
 
 **SwapClass — Backend Lead**
 알림 · 신고/차단 · QR 인증 · 교환 채팅방 상태머신 · FCM 푸시 알림 · 스케줄러 등 핵심 도메인 설계 및 구현
-<br/>
-Backend: Spring Boot, MySQL, Redis, AWS S3, WebSocket STOMP, FCM · Deploy: AWS EC2, Nginx
 
 <br/>
 
