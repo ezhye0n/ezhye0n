@@ -12,15 +12,15 @@
 - Interested in **MLOps, AI Engineering, and system/infrastructure-oriented roles**
 - Backend Developer focused on **reliable servers, APIs, and databases**
 - Exploring **Cloud Infrastructure (AWS), RAG Pipelines, and Vector Databases**
+- 📫 ji1048339@gmail.com
 
 ### 🔗 Connect with Me
-
 <p align="left">
-  <a href="mailto:ji1048339@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/jihyeon-lee-022816402/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ji1048339@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
