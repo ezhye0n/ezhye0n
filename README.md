@@ -12,7 +12,17 @@
 - Interested in **MLOps, AI Engineering, and system/infrastructure-oriented roles**
 - Backend Developer focused on **reliable servers, APIs, and databases**
 - Exploring **Cloud Infrastructure (AWS), RAG Pipelines, and Vector Databases**
-- 📫 **ji1048339@gmail.com**
+
+### 🔗 Connect with Me
+
+<p align="left">
+  <a href="mailto:ji1048339@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jihyeon-lee-022816402/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -63,15 +73,3 @@ Event normalization · LLM-based draft generation · Safety checks · Review & a
 - **[aws-infra-basics](https://github.com/ezhye0n/aws-infra-basics)** — AWS 클라우드 기초(VPC, EC2, S3, ELB) 실습
 - **[aws-ai-services-practice](https://github.com/ezhye0n/aws-ai-ml-training)** — AWS 클라우드 인프라 및 GenAI 파이프라인(Bedrock RAG, Textract, Rekognition) 실습
 
----
-
-### 🔗 Connect with Me
-
-<p align="left">
-  <a href="mailto:ji1048339@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/jihyeon-lee-022816402/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
