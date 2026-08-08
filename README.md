@@ -63,20 +63,6 @@ Event normalization · LLM-based draft generation · Safety checks · Review & a
 - **[aws-infra-basics](https://github.com/ezhye0n/aws-infra-basics)** — AWS 클라우드 기초(VPC, EC2, S3, ELB) 실습
 - **[aws-ai-services-practice](https://github.com/ezhye0n/aws-ai-ml-training)** — AWS 클라우드 인프라 및 GenAI 파이프라인(Bedrock RAG, Textract, Rekognition) 실습
 
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ezhye0n&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezhye0n&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezhye0n&hide_border=true" alt="streak stats"/>
-</p>
-
 ---
 
 ### 🔗 Connect with Me
