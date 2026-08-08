@@ -61,8 +61,9 @@ Backend: Spring Boot, MySQL, Redis, AWS S3, WebSocket STOMP, FCM · Deploy: AWS 
 
 ### 📚 Learning & Practice
 
-- **[aws-ai-services-practice](https://github.com/ezhye0n/aws-ai-ml-training)** — AWS 클라우드 인프라 및 GenAI 파이프라인(Bedrock RAG, Textract, Rekognition) 실습
 - **[aws-infra-basics](https://github.com/ezhye0n/aws-infra-basics)** — AWS 클라우드 기초(VPC, EC2, S3, ELB) 실습
+- **[aws-ai-services-practice](https://github.com/ezhye0n/aws-ai-ml-training)** — AWS 클라우드 인프라 및 GenAI 파이프라인(Bedrock RAG, Textract, Rekognition) 실습
+
 
 ---
 
