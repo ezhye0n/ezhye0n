@@ -54,12 +54,6 @@
 | 2026.04 ~ 2026.06 | [NoonGil-BarrierFree-AI](https://github.com/ezhye0n/NoonGil-BarrierFree-AI) | 휠체어 시점 기반 CV 장애물 탐지 및 회피 방향 제시 시스템 |![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black) ![edge-tts](https://img.shields.io/badge/edge--tts-0078D4?style=flat-square) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Team Lead · Backend pipeline integration, Flask server, TTS/UI output modules |
 | 2026.05 ~ 2026.06 | [OOP-parcel-locker-system](https://github.com/ezhye0n/OOP-parcel-locker-system) | 객체지향을 적용한 MVC 패턴 기반 무인 택배함 소프트웨어 시뮬레이션. | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-007396?style=flat-square&logo=openjdk&logoColor=white) | Team Lead · Controller 전담, 전체 통합·테스트 |
 
-**Pillioo — BE & LLM Integration**
-Event normalization · LLM-based draft generation · Safety checks · Review & approval workflows · Audit logging · Multi-turn chat integration
-
-**SwapClass — Backend Lead**
-알림 · 신고/차단 · QR 인증 · 교환 채팅방 상태머신 · FCM 푸시 알림 · 스케줄러 등 핵심 도메인 설계 및 구현
-
 <br/>
 
 ### 🏆 Awards
