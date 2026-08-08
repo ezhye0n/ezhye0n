@@ -16,7 +16,7 @@
 
 ### 🔗 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/jihyeon-lee-022816402/" target="_blank">
+  <a href="https://www.linkedin.com/in/%EC%A7%80%ED%98%84-%EC%9D%B4-022816402/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ji1048339@gmail.com">
