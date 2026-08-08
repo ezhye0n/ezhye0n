@@ -55,7 +55,7 @@ Backend: Spring Boot, MySQL, Redis, AWS S3, WebSocket STOMP, FCM · Deploy: AWS 
 
 ### 🏆 Awards
 
-🥈 **Silver Prize** | ICT Award KOREA 2026 (University Division) – *Pillioo* (2026.07)
+🏆  **ICT AWARD KOREA 2026** | Silver Award (KIPS President’s Award) – *Pillioo* (2026.08)
 
 ---
 
