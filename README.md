@@ -8,7 +8,6 @@
 ---
 
 ### 🙋‍♀️ About Me
-
 - Interested in **MLOps, AI Engineering, and system/infrastructure-oriented roles**
 - Backend Developer focused on **reliable servers, APIs, and databases**
 - Exploring **Cloud Infrastructure (AWS), RAG Pipelines, and Vector Databases**
@@ -27,7 +26,6 @@
 ---
 
 ### 🛠️ Tech Stack
-
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
@@ -46,9 +44,9 @@
 ---
 
 ### 💻 Projects
-
 | Date | Project | Description | Stack | Role |
 |------|---------|-------------|-------|------|
+| 2026.08 | [Security-SOAR-Agent](https://github.com/ezhye0n/security-soar-agent) | 해커톤 단기간 프로젝트. 실시간 위협 탐지 → AI 분석 → Human-in-the-Loop 승인 → 자동 차단까지 이어지는 AWS 서버리스 보안 대응(SOAR) 파이프라인. Bedrock AgentCore 기반 AI 에이전트가 설명 가능한 판단 근거 제공 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white) ![Kinesis](https://img.shields.io/badge/Kinesis-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white) ![Step Functions](https://img.shields.io/badge/Step%20Functions-FF4F8B?style=flat-square) ![Bedrock](https://img.shields.io/badge/Bedrock%20AgentCore-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | Detection & HITL Pipeline · Consumer Lambda(슬라이딩 윈도우 위협 탐지), 승인 플로우, 실시간 대시보드, AI 에이전트 연동 |
 | 2026.04 ~ 2026.07 | [Pillioo](https://github.com/pillioo) | 의약품 리콜 및 안전 이벤트 대응을 위한 약사 중심 의사결정 지원 시스템. RAG 기반 근거 검색, human-in-the-loop 검토 | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Milvus](https://img.shields.io/badge/Milvus-00A6A6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | BE & LLM Integration |
 | 2026.05 ~ 2026.08 | [SwapClass](https://github.com/SongWalks/31th_1_songwalks_swapclass_back) | 숙대생들의 수강신청을 구조하는 간편하고 안전한 강의 교환 플랫폼. 교환 매칭 및 강의 보유 인증 자동화. | ![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-STOMP-010101?style=flat-square&logo=websocket&logoColor=white) ![FCM](https://img.shields.io/badge/FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)| Backend Lead |
 | 2026.04 ~ 2026.06 | [NoonGil-BarrierFree-AI](https://github.com/ezhye0n/NoonGil-BarrierFree-AI) | 휠체어 시점 기반 CV 장애물 탐지 및 회피 방향 제시 시스템 |![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black) ![edge-tts](https://img.shields.io/badge/edge--tts-0078D4?style=flat-square) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Team Lead · Backend pipeline integration, Flask server, TTS/UI output modules |
@@ -57,13 +55,11 @@
 <br/>
 
 ### 🏆 Awards
-
-🏆  **ICT AWARD KOREA 2026** | Silver Award (KIPS President’s Award. 한국정보처리 학회장상) – *Pillioo* (2026.07)
+🏆  **ICT AWARD KOREA 2026** | Silver Award (KIPS President's Award. 한국정보처리 학회장상) – *Pillioo* (2026.07)
 
 ---
 
 ### 📚 Learning & Practice
-
 - **[aws-infra-basics](https://github.com/ezhye0n/aws-infra-basics)** — AWS 클라우드 기초(VPC, EC2, S3, ELB) 실습
 - **[aws-ai-services-practice](https://github.com/ezhye0n/aws-ai-ml-training)** — AWS 클라우드 인프라 및 GenAI 파이프라인(Bedrock RAG, Textract, Rekognition) 실습
-
+- **[aws-ai-intensive (security-soar-agent)](https://github.com/ezhye0n/security-soar-agent))** — 5일간 실시간 데이터 파이프라인부터 생성형 AI 활용까지 다룬 심화 교육. 1일차 Lambda+Kinesis 실시간 수집·전처리, 2일차 SageMaker Canvas 시계열 예측 및 Bedrock 이상 탐지, 3일차 Bedrock Agents·MCP 기반 멀티스텝 에이전트, 4일차 Bedrock Knowledge Bases RAG Q&A 웹앱과 Step Functions Human-in-the-Loop 워크플로우, 팀 프로젝트 기획·구현 5일차 팀 프로젝트 구현·발표로 마무리
