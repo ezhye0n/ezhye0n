@@ -62,4 +62,5 @@
 ### 📚 Learning & Practice
 - **[aws-infra-basics](https://github.com/ezhye0n/aws-infra-basics)** — AWS 클라우드 기초(VPC, EC2, S3, ELB) 실습
 - **[aws-ai-services-practice](https://github.com/ezhye0n/aws-ai-ml-training)** — AWS 클라우드 인프라 및 GenAI 파이프라인(Bedrock RAG, Textract, Rekognition) 실습
-- **[aws-ai-intensive (security-soar-agent)](https://github.com/ezhye0n/security-soar-agent))** — 5일간 실시간 데이터 파이프라인부터 생성형 AI 활용까지 다룬 심화 교육. 1일차 Lambda+Kinesis 실시간 수집·전처리, 2일차 SageMaker Canvas 시계열 예측 및 Bedrock 이상 탐지, 3일차 Bedrock Agents·MCP 기반 멀티스텝 에이전트, 4일차 Bedrock Knowledge Bases RAG Q&A 웹앱과 Step Functions Human-in-the-Loop 워크플로우, 팀 프로젝트 기획·구현 5일차 팀 프로젝트 구현·발표로 마무리
+- **[aws-ai-intensive (security-soar-agent)](https://github.com/ezhye0n/security-soar-agent))** — 5일간 실시간 데이터 파이프라인부터 생성형 AI 활용까지 다룬 심화 교육. 5일차 팀 프로젝트 구현·발표로 마무리
+
